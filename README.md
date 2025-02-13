@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements machine learning models to predict fraudulent credit card transactions. The goal is to identify fraudulent transactions from a dataset containing credit card transaction details.
+This project implements machine learning models to predict fraudulent credit card transactions. The goal is to identify fraudulent transactions from a dataset containing credit card transaction details. This project was completed as part of the Capstone Project for the Post Graduate Diploma in Data Science (2020).
 
 ## Data Description
 
