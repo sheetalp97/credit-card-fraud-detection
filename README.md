@@ -29,7 +29,7 @@ The dataset contains credit card transactions made by European cardholders over 
 1.  **Clone the repository:**
 
     ```
-    git clone [repository URL]
+    git clone https://github.com/sheetalp97/credit_card_fraud_detection
     cd credit-card-fraud-detection
     ```
 
